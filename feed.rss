@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel><title>P2019140's blog</title><link>http://example.com/blog/index.html</link>
+<description>A blog about the SW course!</description><language>en</language>
+<lastBuildDate>Mon, 03 Apr 2023 20:37:42 +0300</lastBuildDate>
+<pubDate>Mon, 03 Apr 2023 20:37:42 +0300</pubDate>
+<atom:link href="http://example.com/blog/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+Παραδοτέο 10 - Τελική αναφορά
+</title><description><![CDATA[
+
+<p>To do&hellip;</p>
+
+<!-- text end -->
+]]></description><link>http://example.com/blog/paradoteo-10.html</link>
+<guid>http://example.com/blog/./paradoteo-10.html</guid>
+<dc:creator>Konstantinos Tourtsakis</dc:creator>
+<pubDate>Mon, 03 Apr 2023 20:31:42 +0300</pubDate></item>
+<item><title>
+Παραδοτέο 9 - Συμμετοχικό περιεχόμενο B2
+</title><description><![CDATA[
+
+<p>Στο παραδοτέο αυτό συνεχίζεται η προσθήκη περιεχομένου στην ιστοσελίδα του μαθήματος.
+Αυτήν τη φορά χρειάστηκε να προσθέσουμε μια βιογραφία σχετική με τις προηγούμενες προσθήκες
+μας. Η βιογραφία που πρόσθεσα είναι αυτή του Linus Torvalds, δημιουργός των Linux και
+Git. Παρακάτω επισυνάπτω όλες τις προσθήκες αρχείων, τα Pull Request μου στον οργανισμό
+και το link της βιογραφίας στην ιστοσελίδα.</p>
+
+<ul>
+<li>images/<a href="https://github.com/KonstantinosTourtsakis/images/blob/master/torvalds-profile-thumb.jpg">torvalds-profile-thumb.jpg</a></li>
+<li>images/<a href="https://github.com/KonstantinosTourtsakis/images/blob/master/torvalds-profile.jpg">torvalds-profile.jpg</a></li>
+<li>site/_biography/<a href="https://github.com/KonstantinosTourtsakis/site/blob/master/_biography/linus-torvalds.md">linus-torvalds.md</a></li>
+<li>site/_includes/<a href="https://github.com/KonstantinosTourtsakis/site/blob/master/_includes/bio-torvalds.md">bio-torvalds.md</a></li>
+<li>Pull Requests: <a href="https://github.com/PaneksypnesDiepafes/site/pull/10">site</a>, <a href="https://github.com/PaneksypnesDiepafes/images/pull/7">images</a></li>
+</ul>
+
+
+<p><a href="https://paneksypnesdiepafes-pibook.netlify.app/biography/linus-torvalds/"><img src="https://cdn.discordapp.com/attachments/794920060677521469/1089852056690503771/torvalds-bio.jpg" alt="biography" /></a></p>
+
+<!-- text end -->
+]]></description><link>http://example.com/blog/paradoteo-9.html</link>
+<guid>http://example.com/blog/./paradoteo-9.html</guid>
+<dc:creator>Konstantinos Tourtsakis</dc:creator>
+<pubDate>Mon, 03 Apr 2023 20:30:02 +0300</pubDate></item>
+<item><title>
+Παραδοτέο 8 - Κατασκευή του βιβλίου Β2
+</title><description><![CDATA[
+
+<p>To do&hellip;</p>
+
+<!-- text end -->
+]]></description><link>http://example.com/blog/paradoteo-8.html</link>
+<guid>http://example.com/blog/./paradoteo-8.html</guid>
+<dc:creator>Konstantinos Tourtsakis</dc:creator>
+<pubDate>Mon, 03 Apr 2023 20:29:15 +0300</pubDate></item>
+<item><title>
+Παραδοτέο 7 - Συμμετοχικό περιεχόμενο B1
+</title><description><![CDATA[
+
+<p>Στο παραδοτέο αυτό χρειάστηκε να συνεχίσουμε τις συνεισφορές στην ιστοσελίδα του μαθήματος και
+αυτήν τη φορά να προσθέσουμε μια δική μας μελέτη περίπτωσης. Αποφάσισα λοιπόν να προσθέσω μια
+μελέτη περίπτωσης σχετικά με το version control system Git. Παρακάτω επισυνάπτω όλες τις
+προσθήκες αρχείων που έγιναν για την προσθήκη του Git, τα Pull Request που άνοιξα στον οργανισμό
+για την προσθήκη των συνεισφορών μου στην σελίδα του οργανισμού και το link προς την μελέτη περίπτωσης.</p>
+
+<ul>
+<li>images/<a href="https://github.com/KonstantinosTourtsakis/images/blob/master/git-logo-thumb.png">git-logo-thumb.png</a></li>
+<li>images/<a href="https://github.com/KonstantinosTourtsakis/images/blob/master/git.png">git.png</a></li>
+<li>site/_case-study/<a href="https://github.com/KonstantinosTourtsakis/site/blob/master/_case-study/git.md">git.md</a></li>
+<li>site/_includes/<a href="https://github.com/KonstantinosTourtsakis/site/blob/master/_includes/cs-git.md">cs-git.md</a></li>
+<li>Pull Requests: <a href="https://github.com/PaneksypnesDiepafes/site/pull/10">site</a>, <a href="https://github.com/PaneksypnesDiepafes/images/pull/7">images</a></li>
+</ul>
+
+
+<p><a href="https://paneksypnesdiepafes-pibook.netlify.app/case-study/git/"><img src="https://cdn.discordapp.com/attachments/794920060677521469/1089852042538909766/cs-git.jpg" alt="case-study" /></a></p>
+
+<!-- text end -->
+]]></description><link>http://example.com/blog/paradoteo-7.html</link>
+<guid>http://example.com/blog/./paradoteo-7.html</guid>
+<dc:creator>Konstantinos Tourtsakis</dc:creator>
+<pubDate>Mon, 03 Apr 2023 20:28:37 +0300</pubDate></item>
+<item><title>
+Παραδοτέο 6 - Custom static blog generator
+</title><description><![CDATA[
+
+<p>To do&hellip;</p>
+
+<!-- text end -->
+]]></description><link>http://example.com/blog/paradoteo-6.html</link>
+<guid>http://example.com/blog/./paradoteo-6.html</guid>
+<dc:creator>Konstantinos Tourtsakis</dc:creator>
+<pubDate>Mon, 03 Apr 2023 20:26:59 +0300</pubDate></item>
+<item><title>
+Παραδοτέο 5 - Συμμετοχικό περιεχόμενο Α1, Α2
+</title><description><![CDATA[
+
+<p>Για το 5ο παραδοτέο χρειάστηκε να εργαστούμε και πάλι συνεργατικά για την προσθήκη περιεχομένου
+στην ιστοσελίδα του μαθήματος. Για το παραδοτέο αυτό έχω επιλέξει να προσθέσω αρχικά δύο εικόνες
+με λεζάντα για το Α1. Στο Α1 ασχολήθηκα με την προσθήκη της γλώσσας προγραμματισμού C++ και τον
+εξομοιτωτή <a href="https://rpcs3.net/">RPCS3</a> της κονσόλας βιντεοπαιχνιδιών PlayStation 3. Η C++ είναι
+μια υψηλού επιπέδου γλώσσα προγραμματισμού η οποία στοχεύει στην ανάπτυξη αποδοτικού λογισμικού
+και την αξιοποίηση των πόρων του συστήματος. Είναι μια επέκταση της C που παρέχει πολλά χρήσιμα
+εργαλεία ανάπτυξης λογισμικού και τεχνολογίες όπως η αντικειμενοστρέφεια. Το RPCS3, είναι ένας
+ανοικτού <a href="https://github.com/rpcs3">κώδικα</a> εξομοιωτής του PlayStation 3 γραμμένο σε C++. Εκτός
+από την εκτέλεση λογισμικού της κονσόλας κάνει επίσης εφικτή την αποσφαλμάτωση των εκτελέσιμων
+εφαρμογών και δείνει πρόσβαση στο σύστημα αρχείων της κονσόλας, κάτι το οποίο δεν είναι εφικτό
+στην ίδια την συσκευή.</p>
+
+<table>
+<thead>
+<tr>
+<th><a href="https://paneksypnesdiepafes-pibook.netlify.app/gallery/cpp/">C++</a></th>
+<th><a href="https://paneksypnesdiepafes-pibook.netlify.app/gallery/rpcs3/">RPCS3</a></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://github.com/PaneksypnesDiepafes/images/pull/5">images Pull Request</a></td>
+<td><a href="https://github.com/PaneksypnesDiepafes/_gallery/pull/5">_gallery Pull Request</a></td>
+</tr>
+<tr>
+<td><img src="https://raw.githubusercontent.com/KonstantinosTourtsakis/images/master/cpp.jpg" alt="cpp" /></td>
+<td><img src="https://raw.githubusercontent.com/KonstantinosTourtsakis/images/master/rpcs3.jpg" alt="rpcs3" /></td>
+</tr>
+</tbody>
+</table>
+
+
+<p>Στην συνέχεια έγινε η προσθήκη των παραπάνω σε διαφάνειες και χρονολόγιο για το συμμετοχικό περιεχόμενο
+Α2. Για τον σκοπό αυτό δημιουργήθηκε ένα νέο χρονολόγιο με όνομα
+<a href="https://paneksypnesdiepafes-pibook.netlify.app//slides/hl-programming/">Προγραμματισμός Υψηλού Επιπέδου</a>
+το οποίο συνδυάζει την C++ με άλλες γλώσσες/τεχνολογίες προγραμματισμού. Το RPCS3 έχει προστεθεί στην
+διαφάνεια <a href="https://paneksypnesdiepafes-pibook.netlify.app//slides/technology/">Τεχνολογία</a> η οποία
+υπήρχε ήδη στην ιστοσελίδα. Τέλος, δημιούργησα ένα χρονολόγιο με όνομα
+<a href="https://paneksypnesdiepafes-pibook.netlify.app//timeline/sw-programming/">Λογισμικό και προγραμματισμός</a>
+στο οποίο συνδυάζονται οι προσθήκες μου με άλλα σχετικά θέματα της ιστοσελίδας.
+<a href="https://github.com/PaneksypnesDiepafes/site/pull/7">Εδώ βρίσκεται το Pull Request</a> για την προσθήκη
+του περιεχομένου του συμμετοχικού υλικού στο αποθετήριο του οργανισμού. Παρακάτω αναγράφονται όλες οι
+αλλαγές/προσθήκες αρχείων που έγιναν στα αποθετήριά μου.</p>
+
+<p>A1:</p>
+
+<ul>
+<li><a href="https://github.com/KonstantinosTourtsakis/images/blob/master/cpp.jpg">cpp.jpg</a></li>
+<li><a href="https://github.com/KonstantinosTourtsakis/images/blob/master/cpp-thumb.jpg">cpp-thumb.jpg</a></li>
+<li><a href="https://github.com/KonstantinosTourtsakis/images/blob/master/rpcs3.jpg">rpcs3.jpg</a></li>
+<li><a href="https://github.com/KonstantinosTourtsakis/images/blob/master/rpcs3-thumb.jpg">rpcs3-thumb.jpg</a></li>
+<li><a href="https://github.com/KonstantinosTourtsakis/_gallery/blob/master/cpp.md">cpp.md</a></li>
+<li><a href="https://github.com/KonstantinosTourtsakis/_gallery/blob/master/rpcs3.md">rpcs3.md</a></li>
+</ul>
+
+
+<p>A2:</p>
+
+<ul>
+<li><a href="https://github.com/KonstantinosTourtsakis/site/blob/master/_slides/hl-programming.md">hl-programming.md</a></li>
+<li><a href="https://github.com/KonstantinosTourtsakis/site/blob/master/_slides/technology.md">technology.md</a> (τροποποίηση αρχείου σελίδας)</li>
+<li><a href="https://github.com/KonstantinosTourtsakis/site/blob/master/_timeline/sw-programming.md">sw-programming.md</a></li>
+</ul>
+
+
+<!-- text end -->
+]]></description><link>http://example.com/blog/paradoteo-5.html</link>
+<guid>http://example.com/blog/./paradoteo-5.html</guid>
+<dc:creator>Konstantinos Tourtsakis</dc:creator>
+<pubDate>Mon, 03 Apr 2023 20:26:08 +0300</pubDate></item>
+<item><title>
+Παραδοτέο 4 - Κατασκευή του βιβλίου Α2
+</title><description><![CDATA[
+
+<p>Για το 4ο παραδοτέο έχω προσθέσει μια σημείωση στο κεφάλαιο 8.2 &ldquo;Εξομοίωση και Προσομοίωση&rdquo; σχετικά
+με τις διαφορές που έχουν οι δυο έννοιες. Παρακάτω επισυνάπτω τα αρχεία τα οποία συμβάλλουν στην
+προσθήκη της σημείωσης του βιβλίου. Τέλος, η σημείωση αυτή υπάρχει στο submodule του οργανισμού όπου
+και έχω ανοίξει το <a href="https://github.com/PaneksypnesDiepafes/kallipos-notes/pull/8">αντίστοιχο pull request</a>
+για την προσθήκη της σημείωσης στο αποθετήριο <a href="https://github.com/PaneksypnesDiepafes/kallipos-notes">kallipos-notes</a>
+του οργανισμού το οποίο περιέχει τις σημειώσεις όλων των μελών του οργανισμού.</p>
+
+<ul>
+<li><a href="https://github.com/KonstantinosTourtsakis/kallipos/tree/master/book">Το βιβλίο</a></li>
+<li><a href="https://github.com/KonstantinosTourtsakis/kallipos/blob/master/contribution.lua">contribution.lua</a></li>
+<li><a href="https://github.com/KonstantinosTourtsakis/kallipos/blob/master/make-latex.sh">make-latex.sh</a></li>
+</ul>
+
+
+<p><img src="https://cdn.discordapp.com/attachments/794920060677521469/1086014406606995577/Simulation_and_emulation.JPG" alt="σημείωση βιβλίου" /></p>
+
+<!-- text end -->
+]]></description><link>http://example.com/blog/paradoteo-4.html</link>
+<guid>http://example.com/blog/./paradoteo-4.html</guid>
+<dc:creator>Konstantinos Tourtsakis</dc:creator>
+<pubDate>Mon, 03 Apr 2023 20:21:31 +0300</pubDate></item>
+<item><title>
+Παραδοτέο 3 - Εγκατάσταση non-systemd συστήματος
+</title><description><![CDATA[
+
+<p>Στο παραδοτέο αυτό μας ζητήθηκε να εγκαταστήσουμε ένα λειτουργικό σύστημα το οποίο να μην
+βασίζεται στο <strong>systemd</strong> για την εκκίνηση του συστήματος. Το σύστημα που εγκατέστησα
+για το παραδοτέο είναι το <a href="https://www.gentoo.org/">Gentoo Linux</a>. Το Gentoo είναι μια
+πολύ &ldquo;ελαφριά&rdquo; διανομή του Linux η οποία βασίζεται στο <a href="https://en.wikipedia.org/wiki/OpenRC">OpenRC</a>
+και επιτρέπει τους χρήστες του να αποφύγουν την εγκατάσταση περιττών προγραμμάτων,
+κάτι το οποίο εκτιμώ ιδιαίτερα γιατί δεν θέλω το σύστημά μου να ξοδεύει πόρους άσκοπα σε
+διεργασίες και δεδομένα που δεν χρησιμοποιώ. Με την χρήση του USE variable μπορώ να ορίσω
+πακέτα που θέλω να υπάρχουν οπωσδήποτε στο σύστημά μου αλλά και πακέτα που σε καμία
+περίπτωση δεν θέλω να εγκατασταθούν. Τέλος το Gentoo βασίζεται στον πηγαίο κώδικα και κάθε
+πακέτο πρέπει να μεταγλωττιστεί απευθείας στο σύστημά μου για να εγκατασταθεί. Παρακάτω επισυνάπτω
+το asciinema recording στο οποίο παρουσιάζω το σύστημά.</p>
+
+<p><a href="https://asciinema.org/a/566082"><img src="https://asciinema.org/a/566082.svg" alt="asciicast" /></a></p>
+
+<p>Επίσης, πέρα από την βασική εγκατάσταση του συστήματος έχω εγκαταστήσει το Xorg και τον <a href="https://i3wm.org/">i3 window manager</a>
+για να μπορώ να έχω βασική λειτουργικότητα γραφικών. Με αυτόν τον τρόπο θα έχω πρόσβαση σε εφαρμογές
+γραφικού περιβάλλοντος όπως ο browser χωρίς όμως να αναιρείται η φιλοσοφία της αξιοποίησης των πόρων του
+συστήματος αλλά και της χρήσης της γραμμής εντολών για την περιήγηση μου στο σύστημα.</p>
+
+<p><img src="https://cdn.discordapp.com/attachments/794920060677521469/1083715043008466954/i3wm_gentoo.JPG" alt="" /></p>
+
+<!-- text end -->
+]]></description><link>http://example.com/blog/paradoteo-3.html</link>
+<guid>http://example.com/blog/./paradoteo-3.html</guid>
+<dc:creator>Konstantinos Tourtsakis</dc:creator>
+<pubDate>Mon, 03 Apr 2023 20:16:45 +0300</pubDate></item>
+<item><title>
+Παραδοτέο 2 - Εγκατάσταση systemd συστήματος
+</title><description><![CDATA[
+
+<p>Για το παραδοτέο αυτό παρουσιάζω το systemd σύστημα μου παρακάτω. Συγκεκριμένα χρησιμοποιώ το Arch Linux.</p>
+
+<p><a href="https://asciinema.org/a/533191"><img src="https://asciinema.org/a/533191.svg" alt="asciicast" /></a></p>
+
+<p>Επίσης έκανα μια άσκηση από την λίστα των ασκήσεων. Αξιοποίησα ένα πρόγραμμα που έγραψα σε
+Python το οποίο χρησιμοποιεί το <a href="https://github.com/dschep/ntfy">ntfy</a> για την αποστολή
+push notifications στο κινητό μου μέσω του Telegram. Το πρόγραμμα χρησιμοποιεί το <a href="https://www.selenium.dev/">Selenium</a>
+για να ελέγξει εάν έχει αναρτηθεί κάποια καινούρια ανακοίνωση στο αποθετήριο του μαθήματος
+στο GitHub. Εάν βρεθεί καινούρια ανακοίνωση αποθηκεύει το link σε ένα json αρχείο και στέλνει
+ειδοποίηση στο Telegram μου. Με αυτόν τον τρόπο μπορώ να θέσω το σύστημα να τρέχει το
+πρόγραμμα 1-2 φορές την ημέρα ώστε να με ειδοποιεί για νέες ανακοινώσεις του μαθήματος.</p>
+
+<p><strong>Σημείωση:</strong> θα μπορούσα να αξιοποιήσω τις λειτουργίες του GitHub για να λαμβάνω ειδοποιήσεις
+σχετικά με το μάθημα όμως με αυτόν τον τρόπο αναγκαστικά θα έπρεπε να έρθω σε επαφή με άλλες
+ειδοποιήσεις που ενδέχεται να παραλάβω στο email. Επομένως επιλέγω να χρησιμοποιήσω ένα δικό
+μου πρόγραμμα με το οποίο έχω μεγαλύτερο έλεγχο της λειτουργικότητας αυτής και επίσης μπορώ
+να προσαρμόσω και για μελοντικές ανάγκες (πχ να στέλνω την ανακοίνωση και στον Discord server
+που χρησιμοποιούμε με την ομάδα μου).</p>
+
+<table>
+<thead>
+<tr>
+<th style="text-align:center;"> Asciinema recording </th>
+<th style="text-align:center;"> Ειδοποίηση στο Telegram </th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center;"> <a href="https://asciinema.org/a/563067"><img src="https://asciinema.org/a/563067.svg" alt="asciicast" /></a> </td>
+<td style="text-align:center;"> <img src="https://cdn.discordapp.com/attachments/794920060677521469/1079463714606030949/Screenshot_20230226-195840_Telegram.jpg" alt="Telegram notification" width="300"/> </td>
+</tr>
+</tbody>
+</table>
+
+
+<!-- text end -->
+]]></description><link>http://example.com/blog/paradoteo215132.html</link>
+<guid>http://example.com/blog/./paradoteo215132.html</guid>
+<dc:creator>Konstantinos Tourtsakis</dc:creator>
+<pubDate>Mon, 03 Apr 2023 20:15:47 +0300</pubDate></item>
+<item><title>
+Εισαγωγή
+</title><description><![CDATA[
+
+<p>Στο μάθημα Τεχνολογία Λογισμικού στόχος μου είναι να καταφέρω να ανταπεξέλθω
+στα ζητούμενα του μαθήματος πριν το τέλος της εβδομάδας και να συμμετέχω ακόμη
+περισσότερο στις συζητήσεις του μαθήματος αλλά και του οργανισμού. Μιας και το
+μάθημα αυτό βασίζεται αρκετά στην συνεργατικότητα θα φροντίσω επίσης το
+περιεχόμενο που θα μοιραστώ με τους συμφοιτητές μου στα συμμετοχικά παραδοτέα
+να είναι ακριβές σε σχέση με τα ζητούμενα του παραδοτέου και θα αποφύγω
+ασάφειες στα commits που ανεβαίνουν στο GitHub ώστε να μην δυσκολέψω τους
+συμφοιτητές μου κατά την προσπάθεια αξιολόγησής τους της αναφοράς μου. Τέλος,
+βρίσκω εξαιρετικά ενδιαφέρον την μέγιστη αξιοποιήση των πόρων του υπολογιστή με
+αποτέλεσμα να με ελκύουν συστήματα που εξυπηρετούν τους σκοπούς του χρήστη χωρίς να
+σπαταλούν πόρους για διεργασίες οι οποίες του είναι αδιάφορες. Με αυτό το σκεπτικό
+και έχοντας ψάξει μερικές πληροφορίες, θα με ευχαριστήσει πάρα πολύ εάν μέχρι
+το τέλος της χρονιάς έχω καταφέρει να στήσω ένα σύστημα Linux From Scratch
+προσαρμοσμένο απόλυτα για τις δικές μου ανάγκες.</p>
+
+<!-- text end -->
+]]></description><link>http://example.com/blog/intro15227.html</link>
+<guid>http://example.com/blog/./intro15227.html</guid>
+<dc:creator>Konstantinos Tourtsakis</dc:creator>
+<pubDate>Mon, 03 Apr 2023 20:14:15 +0300</pubDate></item>
+</channel></rss>

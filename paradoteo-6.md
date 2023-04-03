@@ -1,0 +1,3 @@
+Παραδοτέο 6 - Custom static blog generator
+
+To do...
