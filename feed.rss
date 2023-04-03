@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
-<channel><title>P2019140's blog</title><link>http://example.com/blog/index.html</link>
+<channel><title>P2019140's blog</title><link>https://konstantinostourtsakis.github.io/sw-static-blog/index.html</link>
 <description>A blog about the SW course!</description><language>en</language>
-<lastBuildDate>Mon, 03 Apr 2023 20:37:42 +0300</lastBuildDate>
-<pubDate>Mon, 03 Apr 2023 20:37:42 +0300</pubDate>
-<atom:link href="http://example.com/blog/feed.rss" rel="self" type="application/rss+xml" />
+<lastBuildDate>Mon, 03 Apr 2023 20:46:28 +0300</lastBuildDate>
+<pubDate>Mon, 03 Apr 2023 20:46:28 +0300</pubDate>
+<atom:link href="https://konstantinostourtsakis.github.io/sw-static-blog/feed.rss" rel="self" type="application/rss+xml" />
 <item><title>
 Παραδοτέο 10 - Τελική αναφορά
 </title><description><![CDATA[
 
 <p>To do&hellip;</p>
 
+
 <!-- text end -->
-]]></description><link>http://example.com/blog/paradoteo-10.html</link>
-<guid>http://example.com/blog/./paradoteo-10.html</guid>
+]]></description><link>https://konstantinostourtsakis.github.io/sw-static-blog/paradoteo-10.html</link>
+<guid>https://konstantinostourtsakis.github.io/sw-static-blog/./paradoteo-10.html</guid>
 <dc:creator>Konstantinos Tourtsakis</dc:creator>
 <pubDate>Mon, 03 Apr 2023 20:31:42 +0300</pubDate></item>
 <item><title>
@@ -37,9 +38,10 @@ Git. Παρακάτω επισυνάπτω όλες τις προσθήκες α
 
 <p><a href="https://paneksypnesdiepafes-pibook.netlify.app/biography/linus-torvalds/"><img src="https://cdn.discordapp.com/attachments/794920060677521469/1089852056690503771/torvalds-bio.jpg" alt="biography" /></a></p>
 
+
 <!-- text end -->
-]]></description><link>http://example.com/blog/paradoteo-9.html</link>
-<guid>http://example.com/blog/./paradoteo-9.html</guid>
+]]></description><link>https://konstantinostourtsakis.github.io/sw-static-blog/paradoteo-9.html</link>
+<guid>https://konstantinostourtsakis.github.io/sw-static-blog/./paradoteo-9.html</guid>
 <dc:creator>Konstantinos Tourtsakis</dc:creator>
 <pubDate>Mon, 03 Apr 2023 20:30:02 +0300</pubDate></item>
 <item><title>
@@ -48,9 +50,10 @@ Git. Παρακάτω επισυνάπτω όλες τις προσθήκες α
 
 <p>To do&hellip;</p>
 
+
 <!-- text end -->
-]]></description><link>http://example.com/blog/paradoteo-8.html</link>
-<guid>http://example.com/blog/./paradoteo-8.html</guid>
+]]></description><link>https://konstantinostourtsakis.github.io/sw-static-blog/paradoteo-8.html</link>
+<guid>https://konstantinostourtsakis.github.io/sw-static-blog/./paradoteo-8.html</guid>
 <dc:creator>Konstantinos Tourtsakis</dc:creator>
 <pubDate>Mon, 03 Apr 2023 20:29:15 +0300</pubDate></item>
 <item><title>
@@ -74,9 +77,10 @@ Git. Παρακάτω επισυνάπτω όλες τις προσθήκες α
 
 <p><a href="https://paneksypnesdiepafes-pibook.netlify.app/case-study/git/"><img src="https://cdn.discordapp.com/attachments/794920060677521469/1089852042538909766/cs-git.jpg" alt="case-study" /></a></p>
 
+
 <!-- text end -->
-]]></description><link>http://example.com/blog/paradoteo-7.html</link>
-<guid>http://example.com/blog/./paradoteo-7.html</guid>
+]]></description><link>https://konstantinostourtsakis.github.io/sw-static-blog/paradoteo-7.html</link>
+<guid>https://konstantinostourtsakis.github.io/sw-static-blog/./paradoteo-7.html</guid>
 <dc:creator>Konstantinos Tourtsakis</dc:creator>
 <pubDate>Mon, 03 Apr 2023 20:28:37 +0300</pubDate></item>
 <item><title>
@@ -85,9 +89,10 @@ Git. Παρακάτω επισυνάπτω όλες τις προσθήκες α
 
 <p>To do&hellip;</p>
 
+
 <!-- text end -->
-]]></description><link>http://example.com/blog/paradoteo-6.html</link>
-<guid>http://example.com/blog/./paradoteo-6.html</guid>
+]]></description><link>https://konstantinostourtsakis.github.io/sw-static-blog/paradoteo-6.html</link>
+<guid>https://konstantinostourtsakis.github.io/sw-static-blog/./paradoteo-6.html</guid>
 <dc:creator>Konstantinos Tourtsakis</dc:creator>
 <pubDate>Mon, 03 Apr 2023 20:26:59 +0300</pubDate></item>
 <item><title>
@@ -159,9 +164,10 @@ Git. Παρακάτω επισυνάπτω όλες τις προσθήκες α
 </ul>
 
 
+
 <!-- text end -->
-]]></description><link>http://example.com/blog/paradoteo-5.html</link>
-<guid>http://example.com/blog/./paradoteo-5.html</guid>
+]]></description><link>https://konstantinostourtsakis.github.io/sw-static-blog/paradoteo-5.html</link>
+<guid>https://konstantinostourtsakis.github.io/sw-static-blog/./paradoteo-5.html</guid>
 <dc:creator>Konstantinos Tourtsakis</dc:creator>
 <pubDate>Mon, 03 Apr 2023 20:26:08 +0300</pubDate></item>
 <item><title>
@@ -184,9 +190,10 @@ Git. Παρακάτω επισυνάπτω όλες τις προσθήκες α
 
 <p><img src="https://cdn.discordapp.com/attachments/794920060677521469/1086014406606995577/Simulation_and_emulation.JPG" alt="σημείωση βιβλίου" /></p>
 
+
 <!-- text end -->
-]]></description><link>http://example.com/blog/paradoteo-4.html</link>
-<guid>http://example.com/blog/./paradoteo-4.html</guid>
+]]></description><link>https://konstantinostourtsakis.github.io/sw-static-blog/paradoteo-4.html</link>
+<guid>https://konstantinostourtsakis.github.io/sw-static-blog/./paradoteo-4.html</guid>
 <dc:creator>Konstantinos Tourtsakis</dc:creator>
 <pubDate>Mon, 03 Apr 2023 20:21:31 +0300</pubDate></item>
 <item><title>
@@ -214,9 +221,10 @@ Git. Παρακάτω επισυνάπτω όλες τις προσθήκες α
 
 <p><img src="https://cdn.discordapp.com/attachments/794920060677521469/1083715043008466954/i3wm_gentoo.JPG" alt="" /></p>
 
+
 <!-- text end -->
-]]></description><link>http://example.com/blog/paradoteo-3.html</link>
-<guid>http://example.com/blog/./paradoteo-3.html</guid>
+]]></description><link>https://konstantinostourtsakis.github.io/sw-static-blog/paradoteo-3.html</link>
+<guid>https://konstantinostourtsakis.github.io/sw-static-blog/./paradoteo-3.html</guid>
 <dc:creator>Konstantinos Tourtsakis</dc:creator>
 <pubDate>Mon, 03 Apr 2023 20:16:45 +0300</pubDate></item>
 <item><title>
@@ -258,9 +266,10 @@ push notifications στο κινητό μου μέσω του Telegram. Το π�
 </table>
 
 
+
 <!-- text end -->
-]]></description><link>http://example.com/blog/paradoteo215132.html</link>
-<guid>http://example.com/blog/./paradoteo215132.html</guid>
+]]></description><link>https://konstantinostourtsakis.github.io/sw-static-blog/paradoteo215132.html</link>
+<guid>https://konstantinostourtsakis.github.io/sw-static-blog/./paradoteo215132.html</guid>
 <dc:creator>Konstantinos Tourtsakis</dc:creator>
 <pubDate>Mon, 03 Apr 2023 20:15:47 +0300</pubDate></item>
 <item><title>
@@ -282,9 +291,10 @@ push notifications στο κινητό μου μέσω του Telegram. Το π�
 το τέλος της χρονιάς έχω καταφέρει να στήσω ένα σύστημα Linux From Scratch
 προσαρμοσμένο απόλυτα για τις δικές μου ανάγκες.</p>
 
+
 <!-- text end -->
-]]></description><link>http://example.com/blog/intro15227.html</link>
-<guid>http://example.com/blog/./intro15227.html</guid>
+]]></description><link>https://konstantinostourtsakis.github.io/sw-static-blog/intro15227.html</link>
+<guid>https://konstantinostourtsakis.github.io/sw-static-blog/./intro15227.html</guid>
 <dc:creator>Konstantinos Tourtsakis</dc:creator>
 <pubDate>Mon, 03 Apr 2023 20:14:15 +0300</pubDate></item>
 </channel></rss>
